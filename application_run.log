@@ -1,0 +1,136 @@
+nohup: ignoring input
+
+=== DMDHP-2ZONE: PHILIPPINE MULTI-SEQUENCE APPLICATION ===
+
+
+============================================================
+  SEQ1_Hinatuan2023
+  2023 Hinatuan  (Mw 7.4, INT)
+============================================================
+  Events loaded: 837
+  m0 = 4.0
+  Shallow: 705  |  Non-shallow: 132  |  T = 88.22 days
+  Fitting DMDHP-2zone ...
+  converged: logL=2493.154  AIC=-4974.308
+  mu=1.1312  beta=4.0008
+  K_sh=0.3053  K_ns=0.0368  R=K_sh/K_ns=8.296
+  a_sh=1.4658  a_ns=0.1569
+  Bootstrap CI (200 samples) ...
+  Successful bootstrap refits: 200/200
+  Fitting MDHP baseline ...
+  LRT (2-zone vs MDHP): LR=14.510  p=0.0007
+  KS p-value: 0.5609
+
+============================================================
+  SEQ2_DavaoOriental2025
+  2025 Davao Oriental  (Mw 7.4, INT)
+============================================================
+  Events loaded: 202
+  m0 = 4.0
+  Shallow: 151  |  Non-shallow: 51  |  T = 90.77 days
+  Fitting DMDHP-2zone ...
+  converged: logL=194.193  AIC=-376.386
+  mu=0.6699  beta=5.7180
+  K_sh=0.2526  K_ns=0.2078  R=K_sh/K_ns=1.215
+  a_sh=1.1772  a_ns=2.2500
+  Bootstrap CI (200 samples) ...
+  Successful bootstrap refits: 200/200
+  Fitting MDHP baseline ...
+  LRT (2-zone vs MDHP): LR=6.002  p=0.0497
+  KS p-value: 0.3463
+
+============================================================
+  SEQ3_DavaoDeSur2019
+  2019 Davao del Sur  (Mw 6.9, INT)
+============================================================
+  Events loaded: 133
+  m0 = 4.0
+  Shallow: 108  |  Non-shallow: 25  |  T = 89.52 days
+  Fitting DMDHP-2zone ...
+  converged: logL=112.121  AIC=-212.242
+  mu=0.5524  beta=3.9638
+  K_sh=0.0906  K_ns=0.0139  R=K_sh/K_ns=6.537
+  a_sh=2.1143  a_ns=2.2500
+  Bootstrap CI (200 samples) ...
+  Successful bootstrap refits: 200/200
+  Fitting MDHP baseline ...
+  LRT (2-zone vs MDHP): LR=2.500  p=0.2865
+  KS p-value: 0.2931
+
+============================================================
+  SEQ4_Cotabato2019Oct29
+  2019 Cotabato (Oct 29)  (Mw 6.6, CSS)
+============================================================
+  Events loaded: 122
+  m0 = 4.0
+  Shallow: 119  |  Non-shallow: 3  |  T = 85.41 days
+  Fitting DMDHP-2zone ...
+  converged: logL=148.416  AIC=-284.832
+  mu=0.2023  beta=3.6675
+  K_sh=0.1882  K_ns=0.0000  R=K_sh/K_ns=1665260.910
+  a_sh=1.6800  a_ns=0.0181
+  Bootstrap CI (200 samples) ...
+  Successful bootstrap refits: 200/200
+  Fitting MDHP baseline ...
+  LRT (2-zone vs MDHP): LR=2.097  p=0.3505
+  KS p-value: 0.4882
+
+============================================================
+  SEQ5_Cotabato2019Oct16
+  2019 Cotabato (Oct 16)  (Mw 6.3, CSS)
+============================================================
+  Events loaded: 157
+  m0 = 4.0
+  Shallow: 156  |  Non-shallow: 1  |  T = 75.32 days
+  Fitting DMDHP-2zone ...
+  converged: logL=185.616  AIC=-359.232
+  mu=0.3245  beta=2.4062
+  K_sh=0.0916  K_ns=0.0000  R=K_sh/K_ns=9160195.741
+  a_sh=1.9887  a_ns=0.0535
+  Bootstrap CI (200 samples) ...
+  Successful bootstrap refits: 200/200
+  Fitting MDHP baseline ...
+  LRT (2-zone vs MDHP): LR=0.400  p=0.8189
+  KS p-value: 0.0654
+
+============================================================
+  SEQ8_Bohol2013
+  2013 Bohol  (Mw 7.2, CRV)
+============================================================
+  Events loaded: 142
+  m0 = 4.0
+  Shallow: 141  |  Non-shallow: 1  |  T = 81.33 days
+  Fitting DMDHP-2zone ...
+  converged: logL=217.731  AIC=-423.462
+  mu=0.3200  beta=3.8285
+  K_sh=0.1548  K_ns=0.0000  R=K_sh/K_ns=2077949.708
+  a_sh=1.7696  a_ns=0.0494
+  Bootstrap CI (200 samples) ...
+  Successful bootstrap refits: 200/200
+  Fitting MDHP baseline ...
+  LRT (2-zone vs MDHP): LR=0.523  p=0.7698
+  KS p-value: 0.3061
+
+==========================================================================================
+TABLE 1 — PRODUCTIVITY RATIO R = K_sh / K_ns BY SEQUENCE
+DMDHP-2zone (shallow vs non-shallow, d1=70 km)
+==========================================================================================
+Sequence                        Mw  Mech      K_sh      K_ns        R   R 95CI Lo   R 95CI Hi     LRT p     KS p
+----------------------------------------------------------------------------------------------------------------
+2023 Hinatuan                  7.4   INT    0.3053    0.0368    8.296       0.480  41416079.165    0.0007***    0.561
+2025 Davao Oriental            7.4   INT    0.2526    0.2078    1.215       0.130       5.786    0.0497*      0.346
+2019 Davao del Sur             6.9   INT    0.0906    0.0139    6.537       0.100  22731781.122    0.2865       0.293
+2019 Cotabato (Oct 29)         6.6   CSS    0.1882    0.0000  1665260.910       0.052  45282455.771    0.3505       0.488
+2019 Cotabato (Oct 16)         6.3   CSS    0.0916    0.0000  9160195.741       0.008  43114687.720    0.8189       0.065
+2013 Bohol                     7.2   CRV    0.1548    0.0000  2077949.708       0.044  34906533.363    0.7698       0.306
+
+Significance: *** p<0.001  ** p<0.01  * p<0.05
+R > 1: shallow earthquakes more productive than non-shallow
+R ≈ 1: no depth-dependent productivity
+KS p: p-value of Kolmogorov-Smirnov test for PIT uniformity
+==========================================================================================
+  Saved: ph_results/productivity_ratio_plot.png
+
+All results saved to: /home/glgonzales/Documents/arcede_dmdhp_paper/ph_results/
+Key output: ph_results/productivity_ratio_table.txt
+Key figure: ph_results/productivity_ratio_plot.png

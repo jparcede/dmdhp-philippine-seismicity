@@ -1,0 +1,20 @@
+=================================================================
+SEQUENCE: 2021 Alaska Peninsula
+=================================================================
+ID:           G09_Alaska2021
+Mainshock:    Mw 8.2  |  2021-07-29T06:15:00 UTC
+Epicenter:    55.364N  -157.888E  |  depth 32.2 km
+Trench:       Alaska-Aleutian subduction zone
+Region:       Alaska Peninsula
+Min mag:      m0 = 4.0
+
+Total aftershocks: 86
+Time span:         91.54 days
+Magnitude range:   4.0 - 8.2
+Depth range:       0.6 - 53.4 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :    86  (100.0%)
+  Zone 1 Intermediate (70-300 km)        :     0  (0.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================

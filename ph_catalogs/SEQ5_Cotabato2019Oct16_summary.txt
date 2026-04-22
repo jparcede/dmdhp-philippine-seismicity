@@ -1,0 +1,29 @@
+=================================================================
+SEQUENCE: 2019 Cotabato (Oct 16, Mw 6.3)
+=================================================================
+ID:               SEQ5_Cotabato2019Oct16
+Mainshock:        Mw 6.3  |  2019-10-16T03:37:00 UTC
+Epicenter:        6.86N  124.92E  |  depth 7.0 km
+Mechanism:        CSS  —  Cotabato Fault System strike-slip
+Region:           North Cotabato / Central Mindanao
+Window:           2019-10-16T03:37:00 to 2020-01-16T00:00:00 UTC
+Search radius:    120.0 km
+Min magnitude:    m0 = 3.0
+
+Total aftershocks: 157
+Time span:         75.32 days
+Magnitude range:   4.0 – 6.8
+Depth range:       6.1 – 536.7 km
+
+Events by depth zone:
+  Zone 0 Shallow (0–70 km)                  :   156  (99.4%)
+  Zone 1 Intermediate (70–300 km)           :     0  (0.0%)
+  Zone 2 Deep (>300 km)                     :     1  (0.6%)
+
+Magnitude distribution:
+  3 ≤ M < 4: 0
+  4 ≤ M < 5: 127
+  5 ≤ M < 6: 26
+  6 ≤ M < 7: 4
+  M ≥ 7.0        : 0
+=================================================================

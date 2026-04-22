@@ -1,0 +1,29 @@
+=================================================================
+SEQUENCE: 2023 Hinatuan, Surigao del Sur
+=================================================================
+ID:               SEQ1_Hinatuan2023
+Mainshock:        Mw 7.4  |  2023-12-02T14:37:00 UTC
+Epicenter:        8.46N  127.7E  |  depth 25.0 km
+Mechanism:        INT  —  Philippine Trench interface thrust
+Region:           Caraga / Eastern Mindanao
+Window:           2023-12-02T14:37:00 to 2024-02-29T00:00:00 UTC
+Search radius:    200.0 km
+Min magnitude:    m0 = 4.0
+
+Total aftershocks: 837
+Time span:         88.22 days
+Magnitude range:   4.0 – 7.6
+Depth range:       7.7 – 107.1 km
+
+Events by depth zone:
+  Zone 0 Shallow (0–70 km)                  :   705  (84.2%)
+  Zone 1 Intermediate (70–300 km)           :   132  (15.8%)
+  Zone 2 Deep (>300 km)                     :     0  (0.0%)
+
+Magnitude distribution:
+  3 ≤ M < 4: 0
+  4 ≤ M < 5: 716
+  5 ≤ M < 6: 113
+  6 ≤ M < 7: 7
+  M ≥ 7.0        : 1
+=================================================================

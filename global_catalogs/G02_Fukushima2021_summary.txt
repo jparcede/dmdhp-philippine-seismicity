@@ -1,0 +1,20 @@
+=================================================================
+SEQUENCE: 2021 Fukushima, Japan
+=================================================================
+ID:           G02_Fukushima2021
+Mainshock:    Mw 7.1  |  2021-02-13T14:07:00 UTC
+Epicenter:    37.721N  141.775E  |  depth 44.0 km
+Trench:       Japan Trench
+Region:       NE Japan
+Min mag:      m0 = 3.5
+
+Total aftershocks: 61
+Time span:         84.12 days
+Magnitude range:   4.2 - 7.1
+Depth range:       9.5 - 98.3 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :    58  (95.1%)
+  Zone 1 Intermediate (70-300 km)        :     3  (4.9%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================

@@ -1,0 +1,20 @@
+=================================================================
+SEQUENCE: 2016 Kaikoura, New Zealand
+=================================================================
+ID:           G07_Kaikoura2016
+Mainshock:    Mw 7.8  |  2016-11-13T11:02:00 UTC
+Epicenter:    -42.737N  173.054E  |  depth 15.1 km
+Trench:       Hikurangi subduction zone
+Region:       South Island, New Zealand
+Min mag:      m0 = 3.5
+
+Total aftershocks: 331
+Time span:         90.39 days
+Magnitude range:   3.7 - 7.8
+Depth range:       1.6 - 54.5 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   331  (100.0%)
+  Zone 1 Intermediate (70-300 km)        :     0  (0.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================

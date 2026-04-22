@@ -1,0 +1,344 @@
+nohup: ignoring input
+
+=== GLOBAL SUBDUCTION SEQUENCE CATALOG DOWNLOAD ===
+Downloading 10 global sequences from USGS ComCat...
+Output directory: /home/glgonzales/Documents/arcede_dmdhp_paper/global_catalogs/
+
+
+=================================================================
+  G01_Tohoku2011
+  2011 Tohoku, Japan  (Mw 9.1)
+  Largest modern interface rupture; expect diverse depth distribution
+=================================================================
+    Downloading...
+    Saved 433,135 bytes
+    Raw rows: 2566
+    Clean aftershocks (m>=4.5): 2566
+=================================================================
+SEQUENCE: 2011 Tohoku, Japan
+=================================================================
+ID:           G01_Tohoku2011
+Mainshock:    Mw 9.1  |  2011-03-11T05:46:00 UTC
+Epicenter:    38.297N  142.373E  |  depth 29.0 km
+Trench:       Japan Trench
+Region:       NE Japan
+Min mag:      m0 = 4.5
+
+Total aftershocks: 2566
+Time span:         91.70 days
+Magnitude range:   4.5 - 9.1
+Depth range:       0.7 - 131.6 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :  2537  (98.9%)
+  Zone 1 Intermediate (70-300 km)        :    29  (1.1%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================
+
+=================================================================
+  G02_Fukushima2021
+  2021 Fukushima, Japan  (Mw 7.1)
+  Moderate interface event; good depth diversity expected
+=================================================================
+    Downloading...
+    Saved 11,175 bytes
+    Raw rows: 61
+    Clean aftershocks (m>=3.5): 61
+=================================================================
+SEQUENCE: 2021 Fukushima, Japan
+=================================================================
+ID:           G02_Fukushima2021
+Mainshock:    Mw 7.1  |  2021-02-13T14:07:00 UTC
+Epicenter:    37.721N  141.775E  |  depth 44.0 km
+Trench:       Japan Trench
+Region:       NE Japan
+Min mag:      m0 = 3.5
+
+Total aftershocks: 61
+Time span:         84.12 days
+Magnitude range:   4.2 - 7.1
+Depth range:       9.5 - 98.3 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :    58  (95.1%)
+  Zone 1 Intermediate (70-300 km)        :     3  (4.9%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================
+
+=================================================================
+  G03_Maule2010
+  2010 Maule, Chile  (Mw 8.8)
+  Major Nazca-South America interface; large rich catalog
+=================================================================
+    Downloading...
+    Saved 167,745 bytes
+    Raw rows: 992
+    Clean aftershocks (m>=4.5): 992
+=================================================================
+SEQUENCE: 2010 Maule, Chile
+=================================================================
+ID:           G03_Maule2010
+Mainshock:    Mw 8.8  |  2010-02-27T06:34:00 UTC
+Epicenter:    -35.909N  -72.733E  |  depth 22.9 km
+Trench:       Chile Trench
+Region:       South-Central Chile
+Min mag:      m0 = 4.5
+
+Total aftershocks: 992
+Time span:         87.27 days
+Magnitude range:   4.5 - 8.8
+Depth range:       1.0 - 115.6 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   991  (99.9%)
+  Zone 1 Intermediate (70-300 km)        :     1  (0.1%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================
+
+=================================================================
+  G04_Illapel2015
+  2015 Illapel, Chile  (Mw 8.3)
+  Well-recorded; expect mix of shallow interface and intraslab
+=================================================================
+    Downloading...
+    Saved 160,591 bytes
+    Raw rows: 895
+    Clean aftershocks (m>=4.0): 895
+=================================================================
+SEQUENCE: 2015 Illapel, Chile
+=================================================================
+ID:           G04_Illapel2015
+Mainshock:    Mw 8.3  |  2015-09-16T22:54:00 UTC
+Epicenter:    -31.573N  -71.674E  |  depth 22.4 km
+Trench:       Chile Trench
+Region:       North-Central Chile
+Min mag:      m0 = 4.0
+
+Total aftershocks: 895
+Time span:         89.91 days
+Magnitude range:   4.0 - 8.3
+Depth range:       2.3 - 120.7 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   886  (99.0%)
+  Zone 1 Intermediate (70-300 km)        :     9  (1.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================
+
+=================================================================
+  G05_Pedernales2016
+  2016 Pedernales, Ecuador  (Mw 7.8)
+  Nazca-South America interface; well recorded by global networks
+=================================================================
+    Downloading...
+    Saved 20,290 bytes
+    Raw rows: 110
+    Clean aftershocks (m>=4.0): 110
+=================================================================
+SEQUENCE: 2016 Pedernales, Ecuador
+=================================================================
+ID:           G05_Pedernales2016
+Mainshock:    Mw 7.8  |  2016-04-16T23:58:00 UTC
+Epicenter:    0.382N  -79.922E  |  depth 20.6 km
+Trench:       Peru-Chile Trench
+Region:       Ecuador
+Min mag:      m0 = 4.0
+
+Total aftershocks: 110
+Time span:         89.32 days
+Magnitude range:   4.0 - 7.8
+Depth range:       5.0 - 67.7 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   110  (100.0%)
+  Zone 1 Intermediate (70-300 km)        :     0  (0.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================
+
+=================================================================
+  G06_Sumatra2012
+  2012 North Sumatra  (Mw 8.6)
+  Strike-slip dominated but includes interface components; large catalog
+=================================================================
+    Downloading...
+    Saved 50,020 bytes
+    Raw rows: 297
+    Clean aftershocks (m>=4.5): 297
+=================================================================
+SEQUENCE: 2012 North Sumatra
+=================================================================
+ID:           G06_Sumatra2012
+Mainshock:    Mw 8.6  |  2012-04-11T08:38:00 UTC
+Epicenter:    2.327N  93.063E  |  depth 20.0 km
+Trench:       Sunda Trench
+Region:       North Sumatra / Indian Ocean
+Min mag:      m0 = 4.5
+
+Total aftershocks: 297
+Time span:         88.33 days
+Magnitude range:   4.5 - 8.6
+Depth range:       4.4 - 62.9 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   297  (100.0%)
+  Zone 1 Intermediate (70-300 km)        :     0  (0.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================
+
+=================================================================
+  G07_Kaikoura2016
+  2016 Kaikoura, New Zealand  (Mw 7.8)
+  Complex multi-fault rupture; GeoNet provides excellent local catalog
+=================================================================
+    Downloading...
+    Saved 62,037 bytes
+    Raw rows: 331
+    Clean aftershocks (m>=3.5): 331
+=================================================================
+SEQUENCE: 2016 Kaikoura, New Zealand
+=================================================================
+ID:           G07_Kaikoura2016
+Mainshock:    Mw 7.8  |  2016-11-13T11:02:00 UTC
+Epicenter:    -42.737N  173.054E  |  depth 15.1 km
+Trench:       Hikurangi subduction zone
+Region:       South Island, New Zealand
+Min mag:      m0 = 3.5
+
+Total aftershocks: 331
+Time span:         90.39 days
+Magnitude range:   3.7 - 7.8
+Depth range:       1.6 - 54.5 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   331  (100.0%)
+  Zone 1 Intermediate (70-300 km)        :     0  (0.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================
+
+=================================================================
+  G08_Kodiak2018
+  2018 Kodiak, Alaska  (Mw 7.9)
+  Pacific-North America interface; well recorded by AK seismic network
+=================================================================
+    Downloading...
+    Saved 139,807 bytes
+    Raw rows: 766
+    Clean aftershocks (m>=3.5): 766
+=================================================================
+SEQUENCE: 2018 Kodiak, Alaska
+=================================================================
+ID:           G08_Kodiak2018
+Mainshock:    Mw 7.9  |  2018-01-23T09:31:00 UTC
+Epicenter:    56.046N  -149.073E  |  depth 14.1 km
+Trench:       Alaska-Aleutian subduction zone
+Region:       Gulf of Alaska
+Min mag:      m0 = 3.5
+
+Total aftershocks: 766
+Time span:         88.32 days
+Magnitude range:   3.5 - 7.9
+Depth range:       4.5 - 34.4 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   766  (100.0%)
+  Zone 1 Intermediate (70-300 km)        :     0  (0.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================
+
+=================================================================
+  G09_Alaska2021
+  2021 Alaska Peninsula  (Mw 8.2)
+  Largest Alaska earthquake since 1965; well recorded
+=================================================================
+    Downloading...
+    Saved 14,814 bytes
+    Raw rows: 86
+    Clean aftershocks (m>=4.0): 86
+=================================================================
+SEQUENCE: 2021 Alaska Peninsula
+=================================================================
+ID:           G09_Alaska2021
+Mainshock:    Mw 8.2  |  2021-07-29T06:15:00 UTC
+Epicenter:    55.364N  -157.888E  |  depth 32.2 km
+Trench:       Alaska-Aleutian subduction zone
+Region:       Alaska Peninsula
+Min mag:      m0 = 4.0
+
+Total aftershocks: 86
+Time span:         91.54 days
+Magnitude range:   4.0 - 8.2
+Depth range:       0.6 - 53.4 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :    86  (100.0%)
+  Zone 1 Intermediate (70-300 km)        :     0  (0.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================
+
+=================================================================
+  G10_Mexico2017
+  2017 Chiapas, Mexico  (Mw 8.2)
+  Cocos-North America interface; deeper mainshock may affect depth distribution
+=================================================================
+    Downloading...
+    Saved 101,191 bytes
+    Raw rows: 518
+    Clean aftershocks (m>=4.0): 518
+=================================================================
+SEQUENCE: 2017 Chiapas, Mexico
+=================================================================
+ID:           G10_Mexico2017
+Mainshock:    Mw 8.2  |  2017-09-08T04:49:00 UTC
+Epicenter:    14.761N  -94.103E  |  depth 47.4 km
+Trench:       Middle America Trench
+Region:       Chiapas, Mexico / Guatemala
+Min mag:      m0 = 4.0
+
+Total aftershocks: 518
+Time span:         90.07 days
+Magnitude range:   4.0 - 8.2
+Depth range:       1.3 - 171.4 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   492  (95.0%)
+  Zone 1 Intermediate (70-300 km)        :    26  (5.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================
+
+=========================================================================================================
+COMBINED CATALOG OVERVIEW — PHILIPPINE + GLOBAL SEQUENCES
+For: Arcede et al. (in prep.) — DMDHP multi-sequence study
+=========================================================================================================
+
+--- PHILIPPINE SEQUENCES ---
+ID                              Mw  Trench/Fault                   N_total    N_sh   N_int   N_deep   T_days    m0  Identifiable?
+---------------------------------------------------------------------------------------------------------------------------------
+SEQ1_Hinatuan2023              7.4  Philippine Trench                  837     705     132        0     88.2   4.0  2-zone OK
+SEQ2_DavaoOriental2025         7.4  Philippine Trench                  202     151      51        0     90.8   4.0  2-zone OK
+SEQ3_DavaoDeSur2019            6.9  Cotabato Trench                    133     108      25        0     89.5   4.0  2-zone OK
+
+--- GLOBAL SEQUENCES ---
+ID                              Mw  Trench/Fault                   N_total    N_sh   N_int   N_deep   T_days    m0  Identifiable?
+---------------------------------------------------------------------------------------------------------------------------------
+G01_Tohoku2011                 9.1  Japan Trench                      2566    2537      29        0     91.7   4.5  2-zone OK
+G02_Fukushima2021              7.1  Japan Trench                        61      58       3        0     84.1   3.5  1-zone only
+G03_Maule2010                  8.8  Chile Trench                       992     991       1        0     87.3   4.5  1-zone only
+G04_Illapel2015                8.3  Chile Trench                       895     886       9        0     89.9   4.0  1-zone only
+G05_Pedernales2016             7.8  Peru-Chile Trench                  110     110       0        0     89.3   4.0  1-zone only
+G06_Sumatra2012                8.6  Sunda Trench                       297     297       0        0     88.3   4.5  1-zone only
+G07_Kaikoura2016               7.8  Hikurangi subduction zone          331     331       0        0     90.4   3.5  1-zone only
+G08_Kodiak2018                 7.9  Alaska-Aleutian subduction         766     766       0        0     88.3   3.5  1-zone only
+G09_Alaska2021                 8.2  Alaska-Aleutian subduction          86      86       0        0     91.5   4.0  1-zone only
+G10_Mexico2017                 8.2  Middle America Trench              518     492      26        0     90.1   4.0  2-zone OK
+
+Identifiability thresholds:
+  2-zone OK:       N_sh >= 50 AND N_int >= 20
+  3-zone possible: additionally N_deep >= 10
+  1-zone only:     N_int < 20
+  INSUFFICIENT:    N_sh < 50
+=========================================================================================================
+
+All global catalogs saved to: /home/glgonzales/Documents/arcede_dmdhp_paper/global_catalogs/
+Sequences downloaded: 10/10
+
+Next: review global_catalog_overview.txt to select final sequence set.

@@ -1,0 +1,15 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-07-06T08:03:57.550Z,11.1269,124.6286,9,6.5,mww,,30,4.139,0.65,us,us1000976a,2026-02-01T06:56:40.503Z,"2 km S of Lim-oo, Philippines",earthquake,6.9,1.8,0.047,44,reviewed,us,us
+2017-07-06T08:05:19.780Z,11.0008,124.7138,10,5.3,mb,,93,3.998,0.69,us,us1000996v,2017-10-03T00:47:51.040Z,"5 km NNE of Talisayan, Philippines",earthquake,6.9,1.9,0.101,33,reviewed,us,us
+2017-07-06T08:10:51.110Z,11.0782,124.8232,10,4.7,mb,,101,4.052,1.04,us,us1000995c,2017-10-03T00:47:51.040Z,"7 km SE of Canhandugan, Philippines",earthquake,5.9,1.9,0.096,33,reviewed,us,us
+2017-07-06T08:21:35.710Z,11.3823,125.4831,10,4.2,mb,,113,12.124,0.68,us,us1000995f,2017-10-03T00:47:51.040Z,"7 km S of Cabay, Philippines",earthquake,8.3,1.9,0.125,18,reviewed,us,us
+2017-07-06T10:31:51.600Z,11.2456,125.0239,10,4.6,mb,,71,4.185,0.84,us,us10009779,2017-10-03T00:47:51.040Z,"2 km ESE of Panalanoy, Philippines",earthquake,10.2,1.9,0.081,45,reviewed,us,us
+2017-07-10T01:41:48.220Z,10.9893,124.784,7.1,5.8,mww,,35,3.973,0.9,us,us100098gc,2022-05-03T18:59:55.343Z,"5 km NW of San Pedro, Philippines",earthquake,7.5,2.2,0.061,26,reviewed,us,us
+2017-07-10T08:41:22.850Z,10.9427,124.5444,10,4.6,mb,,127,3.981,0.71,us,us20009xx5,2017-10-06T23:56:12.040Z,"0 km N of Libas, Philippines",earthquake,8.1,1.8,0.084,42,reviewed,us,us
+2017-07-21T08:29:21.800Z,10.5127,125.7794,111.03,4.2,mb,,134,3.426,0.91,us,us2000a1cb,2017-10-11T01:04:00.040Z,"27 km NE of Loreto, Philippines",earthquake,12.3,8.4,0.096,30,reviewed,us,us
+2017-08-05T11:12:54.390Z,10.1246,125.3412,63.89,4.5,mb,,98,3.044,0.64,us,us2000a53s,2017-10-18T01:54:19.040Z,"21 km ENE of San Francisco, Philippines",earthquake,11.9,7.6,0.084,41,reviewed,us,us
+2017-08-10T10:55:43.710Z,11.5183,125.4737,60.19,4.6,mb,,146,4.421,0.94,us,us2000a8en,2017-10-25T00:38:06.040Z,"3 km NW of Maydolong, Philippines",earthquake,13.4,6,0.158,12,reviewed,us,us
+2017-08-22T22:26:14.630Z,10.9542,124.7072,17.22,5,mb,,55,3.954,0.65,us,us2000aasy,2022-08-07T15:27:02.502Z,"0 km ENE of Talisayan, Philippines",earthquake,7.6,3.9,0.056,102,reviewed,us,us
+2017-09-11T18:25:37.990Z,10.9561,125.9192,35,4.8,mb,,107,3.876,1,us,us2000ak8v,2022-08-07T17:08:28.727Z,"Leyte, Philippines",earthquake,5,2,0.052,112,reviewed,us,us
+2017-09-17T03:00:43.930Z,10.9714,125.7643,47.38,4.5,mb,,123,3.881,0.6,us,us2000at4z,2017-12-19T01:54:00.040Z,"7 km WNW of Sulangan, Philippines",earthquake,7.9,10.5,0.144,14,reviewed,us,us
+2017-09-21T01:19:38.900Z,10.4217,125.5381,95.09,4.6,mb,,101,3.33,0.59,us,us2000awp2,2017-12-19T01:54:09.040Z,"7 km NNW of Loreto, Philippines",earthquake,10.2,8.1,0.096,32,reviewed,us,us

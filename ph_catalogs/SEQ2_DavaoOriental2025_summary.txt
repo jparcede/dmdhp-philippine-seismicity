@@ -1,0 +1,29 @@
+=================================================================
+SEQUENCE: 2025 Davao Oriental
+=================================================================
+ID:               SEQ2_DavaoOriental2025
+Mainshock:        Mw 7.4  |  2025-10-10T03:12:00 UTC
+Epicenter:        7.26N  126.76E  |  depth 23.0 km
+Mechanism:        INT  —  Philippine Trench oblique reverse
+Region:           Davao Oriental / Eastern Mindanao
+Window:           2025-10-10T03:12:00 to 2026-01-10T00:00:00 UTC
+Search radius:    200.0 km
+Min magnitude:    m0 = 4.0
+
+Total aftershocks: 202
+Time span:         90.77 days
+Magnitude range:   4.0 – 6.7
+Depth range:       9.0 – 213.3 km
+
+Events by depth zone:
+  Zone 0 Shallow (0–70 km)                  :   151  (74.8%)
+  Zone 1 Intermediate (70–300 km)           :    51  (25.2%)
+  Zone 2 Deep (>300 km)                     :     0  (0.0%)
+
+Magnitude distribution:
+  3 ≤ M < 4: 0
+  4 ≤ M < 5: 175
+  5 ≤ M < 6: 24
+  6 ≤ M < 7: 3
+  M ≥ 7.0        : 0
+=================================================================

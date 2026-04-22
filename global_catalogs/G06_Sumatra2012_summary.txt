@@ -1,0 +1,20 @@
+=================================================================
+SEQUENCE: 2012 North Sumatra
+=================================================================
+ID:           G06_Sumatra2012
+Mainshock:    Mw 8.6  |  2012-04-11T08:38:00 UTC
+Epicenter:    2.327N  93.063E  |  depth 20.0 km
+Trench:       Sunda Trench
+Region:       North Sumatra / Indian Ocean
+Min mag:      m0 = 4.5
+
+Total aftershocks: 297
+Time span:         88.33 days
+Magnitude range:   4.5 - 8.6
+Depth range:       4.4 - 62.9 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   297  (100.0%)
+  Zone 1 Intermediate (70-300 km)        :     0  (0.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================

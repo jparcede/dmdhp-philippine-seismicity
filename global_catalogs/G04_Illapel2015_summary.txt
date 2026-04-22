@@ -1,0 +1,20 @@
+=================================================================
+SEQUENCE: 2015 Illapel, Chile
+=================================================================
+ID:           G04_Illapel2015
+Mainshock:    Mw 8.3  |  2015-09-16T22:54:00 UTC
+Epicenter:    -31.573N  -71.674E  |  depth 22.4 km
+Trench:       Chile Trench
+Region:       North-Central Chile
+Min mag:      m0 = 4.0
+
+Total aftershocks: 895
+Time span:         89.91 days
+Magnitude range:   4.0 - 8.3
+Depth range:       2.3 - 120.7 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   886  (99.0%)
+  Zone 1 Intermediate (70-300 km)        :     9  (1.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================

@@ -1,0 +1,29 @@
+=================================================================
+SEQUENCE: 2017 Surigao del Norte
+=================================================================
+ID:               SEQ6_Surigao2017
+Mainshock:        Mw 6.7  |  2017-02-10T05:03:00 UTC
+Epicenter:        9.81N  126.12E  |  depth 10.0 km
+Mechanism:        CSS  —  Philippine Fault strike-slip
+Region:           Surigao del Norte / NE Mindanao
+Window:           2017-02-10T05:03:00 to 2017-05-10T00:00:00 UTC
+Search radius:    150.0 km
+Min magnitude:    m0 = 3.0
+
+Total aftershocks: 28
+Time span:         79.81 days
+Magnitude range:   4.3 – 6.5
+Depth range:       10.0 – 112.4 km
+
+Events by depth zone:
+  Zone 0 Shallow (0–70 km)                  :    22  (78.6%)
+  Zone 1 Intermediate (70–300 km)           :     6  (21.4%)
+  Zone 2 Deep (>300 km)                     :     0  (0.0%)
+
+Magnitude distribution:
+  3 ≤ M < 4: 0
+  4 ≤ M < 5: 23
+  5 ≤ M < 6: 4
+  6 ≤ M < 7: 1
+  M ≥ 7.0        : 0
+=================================================================

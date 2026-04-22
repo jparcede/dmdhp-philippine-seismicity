@@ -1,0 +1,20 @@
+=================================================================
+SEQUENCE: 2016 Pedernales, Ecuador
+=================================================================
+ID:           G05_Pedernales2016
+Mainshock:    Mw 7.8  |  2016-04-16T23:58:00 UTC
+Epicenter:    0.382N  -79.922E  |  depth 20.6 km
+Trench:       Peru-Chile Trench
+Region:       Ecuador
+Min mag:      m0 = 4.0
+
+Total aftershocks: 110
+Time span:         89.32 days
+Magnitude range:   4.0 - 7.8
+Depth range:       5.0 - 67.7 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   110  (100.0%)
+  Zone 1 Intermediate (70-300 km)        :     0  (0.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================

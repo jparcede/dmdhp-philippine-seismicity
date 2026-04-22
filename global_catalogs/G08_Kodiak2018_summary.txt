@@ -1,0 +1,20 @@
+=================================================================
+SEQUENCE: 2018 Kodiak, Alaska
+=================================================================
+ID:           G08_Kodiak2018
+Mainshock:    Mw 7.9  |  2018-01-23T09:31:00 UTC
+Epicenter:    56.046N  -149.073E  |  depth 14.1 km
+Trench:       Alaska-Aleutian subduction zone
+Region:       Gulf of Alaska
+Min mag:      m0 = 3.5
+
+Total aftershocks: 766
+Time span:         88.32 days
+Magnitude range:   3.5 - 7.9
+Depth range:       4.5 - 34.4 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   766  (100.0%)
+  Zone 1 Intermediate (70-300 km)        :     0  (0.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================

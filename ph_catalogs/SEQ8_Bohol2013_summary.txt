@@ -1,0 +1,29 @@
+=================================================================
+SEQUENCE: 2013 Bohol
+=================================================================
+ID:               SEQ8_Bohol2013
+Mainshock:        Mw 7.2  |  2013-10-15T00:12:00 UTC
+Epicenter:        9.86N  124.07E  |  depth 20.0 km
+Mechanism:        CRV  —  North Bohol Fault reverse
+Region:           Bohol / Central Visayas
+Window:           2013-10-15T00:12:00 to 2014-01-15T00:00:00 UTC
+Search radius:    150.0 km
+Min magnitude:    m0 = 3.0
+
+Total aftershocks: 142
+Time span:         81.33 days
+Magnitude range:   4.0 – 7.1
+Depth range:       4.9 – 72.0 km
+
+Events by depth zone:
+  Zone 0 Shallow (0–70 km)                  :   141  (99.3%)
+  Zone 1 Intermediate (70–300 km)           :     1  (0.7%)
+  Zone 2 Deep (>300 km)                     :     0  (0.0%)
+
+Magnitude distribution:
+  3 ≤ M < 4: 0
+  4 ≤ M < 5: 121
+  5 ≤ M < 6: 20
+  6 ≤ M < 7: 0
+  M ≥ 7.0        : 1
+=================================================================

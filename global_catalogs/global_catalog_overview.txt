@@ -1,0 +1,32 @@
+=========================================================================================================
+COMBINED CATALOG OVERVIEW — PHILIPPINE + GLOBAL SEQUENCES
+For: Arcede et al. (in prep.) — DMDHP multi-sequence study
+=========================================================================================================
+
+--- PHILIPPINE SEQUENCES ---
+ID                              Mw  Trench/Fault                   N_total    N_sh   N_int   N_deep   T_days    m0  Identifiable?
+---------------------------------------------------------------------------------------------------------------------------------
+SEQ1_Hinatuan2023              7.4  Philippine Trench                  837     705     132        0     88.2   4.0  2-zone OK
+SEQ2_DavaoOriental2025         7.4  Philippine Trench                  202     151      51        0     90.8   4.0  2-zone OK
+SEQ3_DavaoDeSur2019            6.9  Cotabato Trench                    133     108      25        0     89.5   4.0  2-zone OK
+
+--- GLOBAL SEQUENCES ---
+ID                              Mw  Trench/Fault                   N_total    N_sh   N_int   N_deep   T_days    m0  Identifiable?
+---------------------------------------------------------------------------------------------------------------------------------
+G01_Tohoku2011                 9.1  Japan Trench                      2566    2537      29        0     91.7   4.5  2-zone OK
+G02_Fukushima2021              7.1  Japan Trench                        61      58       3        0     84.1   3.5  1-zone only
+G03_Maule2010                  8.8  Chile Trench                       992     991       1        0     87.3   4.5  1-zone only
+G04_Illapel2015                8.3  Chile Trench                       895     886       9        0     89.9   4.0  1-zone only
+G05_Pedernales2016             7.8  Peru-Chile Trench                  110     110       0        0     89.3   4.0  1-zone only
+G06_Sumatra2012                8.6  Sunda Trench                       297     297       0        0     88.3   4.5  1-zone only
+G07_Kaikoura2016               7.8  Hikurangi subduction zone          331     331       0        0     90.4   3.5  1-zone only
+G08_Kodiak2018                 7.9  Alaska-Aleutian subduction         766     766       0        0     88.3   3.5  1-zone only
+G09_Alaska2021                 8.2  Alaska-Aleutian subduction          86      86       0        0     91.5   4.0  1-zone only
+G10_Mexico2017                 8.2  Middle America Trench              518     492      26        0     90.1   4.0  2-zone OK
+
+Identifiability thresholds:
+  2-zone OK:       N_sh >= 50 AND N_int >= 20
+  3-zone possible: additionally N_deep >= 10
+  1-zone only:     N_int < 20
+  INSUFFICIENT:    N_sh < 50
+=========================================================================================================

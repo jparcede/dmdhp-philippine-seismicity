@@ -1,0 +1,20 @@
+=================================================================
+SEQUENCE: 2017 Chiapas, Mexico
+=================================================================
+ID:           G10_Mexico2017
+Mainshock:    Mw 8.2  |  2017-09-08T04:49:00 UTC
+Epicenter:    14.761N  -94.103E  |  depth 47.4 km
+Trench:       Middle America Trench
+Region:       Chiapas, Mexico / Guatemala
+Min mag:      m0 = 4.0
+
+Total aftershocks: 518
+Time span:         90.07 days
+Magnitude range:   4.0 - 8.2
+Depth range:       1.3 - 171.4 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   492  (95.0%)
+  Zone 1 Intermediate (70-300 km)        :    26  (5.0%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================

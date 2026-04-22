@@ -1,0 +1,20 @@
+=================================================================
+SEQUENCE: 2011 Tohoku, Japan
+=================================================================
+ID:           G01_Tohoku2011
+Mainshock:    Mw 9.1  |  2011-03-11T05:46:00 UTC
+Epicenter:    38.297N  142.373E  |  depth 29.0 km
+Trench:       Japan Trench
+Region:       NE Japan
+Min mag:      m0 = 4.5
+
+Total aftershocks: 2566
+Time span:         91.70 days
+Magnitude range:   4.5 - 9.1
+Depth range:       0.7 - 131.6 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :  2537  (98.9%)
+  Zone 1 Intermediate (70-300 km)        :    29  (1.1%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================

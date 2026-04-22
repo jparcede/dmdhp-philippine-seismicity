@@ -1,0 +1,29 @@
+=================================================================
+SEQUENCE: 2019 Davao del Sur
+=================================================================
+ID:               SEQ3_DavaoDeSur2019
+Mainshock:        Mw 6.9  |  2019-12-15T06:11:00 UTC
+Epicenter:        6.22N  125.6E  |  depth 60.0 km
+Mechanism:        INT  —  Cotabato Trench interface
+Region:           Davao del Sur / Southern Mindanao
+Window:           2019-12-15T06:11:00 to 2020-03-15T00:00:00 UTC
+Search radius:    150.0 km
+Min magnitude:    m0 = 3.0
+
+Total aftershocks: 133
+Time span:         89.52 days
+Magnitude range:   4.0 – 6.8
+Depth range:       6.1 – 201.1 km
+
+Events by depth zone:
+  Zone 0 Shallow (0–70 km)                  :   108  (81.2%)
+  Zone 1 Intermediate (70–300 km)           :    25  (18.8%)
+  Zone 2 Deep (>300 km)                     :     0  (0.0%)
+
+Magnitude distribution:
+  3 ≤ M < 4: 0
+  4 ≤ M < 5: 116
+  5 ≤ M < 6: 15
+  6 ≤ M < 7: 2
+  M ≥ 7.0        : 0
+=================================================================

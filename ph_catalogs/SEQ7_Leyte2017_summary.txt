@@ -1,0 +1,29 @@
+=================================================================
+SEQUENCE: 2017 Leyte
+=================================================================
+ID:               SEQ7_Leyte2017
+Mainshock:        Mw 6.5  |  2017-07-06T04:03:00 UTC
+Epicenter:        10.99N  124.84E  |  depth 10.0 km
+Mechanism:        CSS  —  Philippine Fault strike-slip
+Region:           Leyte / Eastern Visayas
+Window:           2017-07-06T04:03:00 to 2017-10-06T00:00:00 UTC
+Search radius:    120.0 km
+Min magnitude:    m0 = 3.0
+
+Total aftershocks: 14
+Time span:         76.89 days
+Magnitude range:   4.2 – 6.5
+Depth range:       7.1 – 111.0 km
+
+Events by depth zone:
+  Zone 0 Shallow (0–70 km)                  :    12  (85.7%)
+  Zone 1 Intermediate (70–300 km)           :     2  (14.3%)
+  Zone 2 Deep (>300 km)                     :     0  (0.0%)
+
+Magnitude distribution:
+  3 ≤ M < 4: 0
+  4 ≤ M < 5: 10
+  5 ≤ M < 6: 3
+  6 ≤ M < 7: 1
+  M ≥ 7.0        : 0
+=================================================================

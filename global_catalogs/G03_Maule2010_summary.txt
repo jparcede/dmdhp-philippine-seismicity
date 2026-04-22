@@ -1,0 +1,20 @@
+=================================================================
+SEQUENCE: 2010 Maule, Chile
+=================================================================
+ID:           G03_Maule2010
+Mainshock:    Mw 8.8  |  2010-02-27T06:34:00 UTC
+Epicenter:    -35.909N  -72.733E  |  depth 22.9 km
+Trench:       Chile Trench
+Region:       South-Central Chile
+Min mag:      m0 = 4.5
+
+Total aftershocks: 992
+Time span:         87.27 days
+Magnitude range:   4.5 - 8.8
+Depth range:       1.0 - 115.6 km
+
+Events by depth zone:
+  Zone 0 Shallow (0-70 km)               :   991  (99.9%)
+  Zone 1 Intermediate (70-300 km)        :     1  (0.1%)
+  Zone 2 Deep (>300 km)                  :     0  (0.0%)
+=================================================================
