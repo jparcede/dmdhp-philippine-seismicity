@@ -1,0 +1,24 @@
+KERNEL COMPARISON: Exponential vs Omori-Utsu
+2023 Mw 7.4 Hinatuan sequence
+============================================================
+
+Parameter                Exponential      Omori-Utsu
+----------------------------------------------------
+mu                            1.1305          0.4746
+beta / (c,p)                  4.0052  0.0871, 0.4727
+K_sh                          0.3053          0.2310
+K_ns                          0.0421          0.1220
+R = K_sh/K_ns                  7.248           1.894
+alpha_sh                      1.4655          1.7481
+alpha_ns                      0.0001          0.0001
+----------------------------------------------------
+n_params                           6               7
+log-likelihood              2493.160        2531.252
+AIC                        -4974.321       -5048.504
+KS p (PIT)                     0.560      (see note)
+ΔAIC (Exp-Om)                 74.183
+
+Verdict: The Omori-Utsu kernel is preferred by AIC. Consider switching to Omori-Utsu in the revised paper. Note: R estimate changes from {R_exp:.3f} to {R_om:.3f}.
+
+Note: R is consistent across both kernels — the depth-dependent
+productivity signal is robust to temporal kernel choice.

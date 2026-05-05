@@ -1,0 +1,7 @@
+Bootstrap CIs — Omori-Utsu DMDHP, Hinatuan 2023
+==================================================
+R_hat = 1.8936
+Median bootstrap R = 4.0314
+95% CI = [0.3103, 3922.9419]
+n_valid bootstrap = 200
+c = 0.08707, p = 0.4727
